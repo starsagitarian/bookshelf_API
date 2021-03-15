@@ -1,13 +1,13 @@
 require('dotenv').config();
 const express = require('express');
 const logger = require('morgan');
-//const router = require('./routes');
+const router = require('./routes');
 const db = require('./server/models')
 const app = express();
 
 app.use(logger('dev'));
 app.use(express.json());
-//app.use(router);
+app.use(router);
 
 
 PORT = process.env.PORT || 3003;
