@@ -1,4 +1,4 @@
-# bookshelf_API
+# Bookshelf_API
 
 This is a simple REST API created as bookshelf application  for creating and curating books based on authors, formats and titles. 
 There are 3 data entities as described below:
