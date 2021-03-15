@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "Starsagi12#",
-    "database": "bookshelf_dkbooks",
+    "username": "Your username",
+    "password": "Your password#",
+    "database": "your db_name",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
