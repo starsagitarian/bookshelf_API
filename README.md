@@ -31,4 +31,9 @@ Described below is the tech stack
 
 ## Testing
 
-all the routes were tested using Postman and the folder has a seperate file containing a json of the all the routes tested with suitable data
+All the routes were tested using Postman and the folder has a seperate file containing a json of the all the routes tested with suitable data
+
+## Issues/Future Scope
+
+As a developer, there are many areas that could be looked at, especially validation and the use of views (handlebars) for a much more better user experience. Having said that, there could always be a case where the above code malfunctions. Please reach out if anybody experiences any issues. Troubleshooting would be an enriching experience in itself!!
+
