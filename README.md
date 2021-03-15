@@ -31,7 +31,7 @@ Described below is the tech stack
 
 ## Testing
 
-All the routes were tested using Postman and the folder has a seperate file containing a json of the all the routes tested with suitable data
+All the routes were tested using Postman and the folder has a seperate file containing a json of the all the routes tested with suitable data. This file needs to be opened in Postman and it will give you folder-wise distribution of the routes. 
 
 ## Issues/Future Scope
 
