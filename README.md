@@ -13,9 +13,10 @@ The API provides all the basic CRUD endpoints for each of the above entities.
 ## How to access the API
 
 The API can be accessed at port:3003 from your local machines.
-Once there you would need to visit the config folder and update the development object within the config.json file (Although a bad practice, I have currently supplied the credentials )
-You would thnn need to use "sequelize db:create" to initialize/create the database on PostgreSQL. Once done can check on your local psql cmd prompt or pgadmin for more details.
-Once all the tables are in place, you can now query the API with the routes provided. 
+Once there you would need to visit the config folder and update the development object within the config.json file.
+You would then need to use "sequelize db:create" to initialize/create the database on PostgreSQL. Once done can check on your local psql cmd prompt or pgadmin for more details.
+Here I have used Nodemon as a dev dependency and hence after running the customary "npm install" you can now fire up the API by typing in the command "npm run dev". 
+Once all the tables are in place, and the server is up and running, you can query the API with the routes provided. The "Morgan" package would keep track of the API hits and the responses in the terminal. 
 
 Described below is the tech stack
 
