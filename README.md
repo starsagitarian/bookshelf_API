@@ -19,7 +19,7 @@ Once all the tables are in place, you can now query the API with the routes prov
 
 Described below is the tech stack
 
-## tech stack
+## Tech stack
 
 <ul>
     <li>Node.js</li>
